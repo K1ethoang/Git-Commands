@@ -9,3 +9,4 @@ Git was developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torval
 
 # 2. Commands
 - [Basic](Basic/)
+- [Advanced](https://www.youtube.com/watch?v=ecK3EnyGD8o)
