@@ -18,6 +18,7 @@ One of the most used git commands, email, username and file format etc. git conf
 git config --global user.name <username>
 git config --global user.email <mailaddress>
 ```
+**`Note:`** --Global is used to apply to all Projects. If you don't use --global, settings are only used separately for that project
 # 2. git init
 Create a new repo
 ```
