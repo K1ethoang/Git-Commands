@@ -18,6 +18,7 @@ Một trong những lệnh config được dùng nhiều nhất. Dùng để đ�
 git config --global user.name <username>
 git config --global user.email <mailaddress>
 ```
+**`Lưu ý:`** --global được sử dụng để áp dụng cho tất cả projects. Nếu bạn không sử dụng --global thì setting chỉ dùng riêng cho project đó
 # 2. git init
 Tạo một repo mới trên máy của bạn
 ```
