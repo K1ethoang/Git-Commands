@@ -118,6 +118,11 @@ Hiển thị danh sách cách commit trên 1 nhánh và các thông tin của n�
 ```
 git log
 ```
+
+Hiển thị gọn hơn
+```
+git log --onelỉne
+```
 # 14. git diff
 Xem xung đột với tệp cơ sở
 ```
