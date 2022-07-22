@@ -118,6 +118,10 @@ List of commits on a branch with the relevant details
 ```
 git log
 ```
+Display oneline
+```
+git log --oneline
+```
 # 14. git diff
 Used to list conflicts. To view conflicts with the base file
 ```
